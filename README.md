@@ -426,6 +426,3 @@ Built with:
 - 💡 [Request a feature](https://github.com/EhsanAzish80/devscope-action/issues)
 - 💬 [Discussions](https://github.com/EhsanAzish80/devscope-action/discussions)
 
----
-
-**Made with ❤️ for developers who ship**
